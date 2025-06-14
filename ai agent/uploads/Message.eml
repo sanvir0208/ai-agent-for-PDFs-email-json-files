@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Content-Disposition: inline; filename="document.html"
+Content-Location: document.html
+Date: Tue, 3 Jun 2025 15:44:21 +0000
+Content-Type: multipart/alternative;
+ boundary="--_=_NextPart1_a4495b10-5701-4bff-8068-244afc65edce"
+
+This is a multi-part message in MIME format.
+
+----_=_NextPart1_a4495b10-5701-4bff-8068-244afc65edce
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+From: sender@example=2Ecom=0A=0ATo: receiver@example=2Ecom=0ASubject: Invoi=
+ce for your order=0A=C2=A0=0ADear Customer,=0A=C2=A0=0AThank you for your p=
+urchase=2E Please find the details below=2E=0A=C2=A0=0ATotal Amount Due: $1=
+23=2E45=0A=C2=A0=0ABest regards,=0ASales Team=0A
+----_=_NextPart1_a4495b10-5701-4bff-8068-244afc65edce
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /><meta http-equiv=3D"Content-Style-Type" content=3D"text/css" />=
+<meta name=3D"generator" content=3D"Aspose=2EWords for =2ENET 25=2E3=2E0" /=
+><title></title></head><body style=3D"line-height:108%; font-family:Calibri=
+; font-size:11pt"><div><p style=3D"margin-top:0pt; margin-bottom:8pt"><span=
+>From: sender@example=2Ecom</span></p><p style=3D"margin-top:0pt; margin-bo=
+ttom:8pt"><span>To: receiver@example=2Ecom</span></p><p style=3D"margin-top=
+:0pt; margin-bottom:8pt"><span>Subject: Invoice for your order</span></p><p=
+ style=3D"margin-top:0pt; margin-bottom:8pt"><span>&#xa0;</span></p><p styl=
+e=3D"margin-top:0pt; margin-bottom:8pt"><span>Dear Customer,</span></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:8pt"><span>&#xa0;</span></p><p style=
+=3D"margin-top:0pt; margin-bottom:8pt"><span>Thank you for your purchase=2E =
+Please find the details below=2E</span></p><p style=3D"margin-top:0pt; marg=
+in-bottom:8pt"><span>&#xa0;</span></p><p style=3D"margin-top:0pt; margin-bo=
+ttom:8pt"><span>Total Amount Due: $123=2E45</span></p><p style=3D"margin-to=
+p:0pt; margin-bottom:8pt"><span>&#xa0;</span></p><p style=3D"margin-top:0pt=
+; margin-bottom:8pt"><span>Best regards,</span></p><p style=3D"margin-top:0=
+pt; margin-bottom:8pt"><span>Sales Team</span></p></div></body></html>
+----_=_NextPart1_a4495b10-5701-4bff-8068-244afc65edce--
+

@@ -1,0 +1,1 @@
+{"\ufeff\nJSON FILE\n{\n  \"invoice_id\": \"INV-1001\",\n  \"date\": \"2025-06-03\",\n  \"customer\": \"John Doe\",\n  \"items\": [\n    {\"name\": \"Item A\", \"price\": 50.0},\n    {\"name\": \"Item B\", \"price\": 70.0}\n  ],\n  \"total\": 120.0,\n  \"gst_included\": true\n}": null}
